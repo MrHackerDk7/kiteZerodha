@@ -64,6 +64,7 @@ public class Test_class extends BaseClass{
 	public void closeBrowser() {
 		Reporter.log("close the app",true);
 	}
+	
 		
 }
 
